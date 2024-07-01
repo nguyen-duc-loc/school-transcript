@@ -2,6 +2,10 @@
 
 My school transcript at UET
 
+## Demo
+
+[school-transcript.vercel.app](school-transcript.vercel.app)
+
 ## Run Locally
 
 Clone the project
