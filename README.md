@@ -17,7 +17,7 @@ git clone https://github.com/nguyen-duc-loc/school-transcript.git
 Go to the project directory
 
 ```bash
-cd my-project
+cd school-transcript
 ```
 
 Install dependencies

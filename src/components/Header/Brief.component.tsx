@@ -6,7 +6,7 @@ export default function Brief() {
   const { isLoading, error, brief } = useBrief()
 
   if (isLoading) {
-    return <Skeleton className="h-5 w-[350px] mt-4" />
+    return <Skeleton className="h-5 max-w-[350px] mt-4" />
   }
 
   if (error) {
